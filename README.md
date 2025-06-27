@@ -168,6 +168,11 @@ Uygulamamızın beyni, **Repository** katmanıdır. Bu katman, uygulamanın geri
 4.  `Repository`, yeni "Todo"yu **önce Isar'a** kaydeder. Bu, verinin her koşulda güvende olmasını sağlar.
 5.  Ardından, internet bağlantısı varsa, veriyi uzak API'ye göndermeyi dener. Başarısız olursa, veri zaten yerelde kayıtlı olduğu için hiçbir veri kaybı yaşanmaz.
 
+#### Ekran Görüntüsü
+
+![Screenshot_1751056076](https://github.com/user-attachments/assets/d8ff6d59-1bca-45bc-9a44-5be9bde36750)
+
+
 #### Sonuç
 
 Bu mimari; **Riverpod**'un reaktif gücü, **Isar**'ın yerel depolama hızı ve **Feature-First** yapısının organizasyonel yeteneklerini birleştirerek Flutter ile hem geliştirici hem de kullanıcı dostu uygulamalar oluşturmanın yolunu gösteriyor. Offline-first sadece bir teknik değil, kullanıcıya saygı duyan bir felsefedir.
